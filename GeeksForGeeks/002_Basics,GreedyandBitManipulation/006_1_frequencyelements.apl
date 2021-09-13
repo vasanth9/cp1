@@ -1,1 +1,1 @@
- frequency←{{⍺,⍴⍵}⌸⍵}
+ frequency←{{⍺,⍴⍵}⌸⍵} ⍝  https://stackoverflow.com/questions/7008098/how-to-count-the-frequency-of-a-element-in-apl-or-j-without-loops
